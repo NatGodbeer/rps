@@ -1,0 +1,1 @@
+This is a simple imlementation of "rock, paper, scissors" for The Odin Project.
