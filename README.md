@@ -1,1 +1,1 @@
-This is a simple imlementation of "rock, paper, scissors" for The Odin Project.
+This is a simple implementation of "rock, paper, scissors" for The Odin Project.
